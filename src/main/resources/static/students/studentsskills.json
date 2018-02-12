@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "skill": {
+            "id": 1,
+            "name": "JAVA"
+        },
+        "note": 3,
+        "student": {
+            "id": 1,
+            "nom": "Dupont",
+            "prenom": "Albert",
+            "telephone": "0643536345",
+            "mail": "dupont@gmail.com"
+        }
+    },
+    {
+        "id": 2,
+        "skill": {
+            "id": 2,
+            "name": "PHP"
+        },
+        "note": 2,
+        "student": {
+            "id": 2,
+            "nom": "Renard",
+            "prenom": "Herve",
+            "telephone": "0643333345",
+            "mail": "renard@gmail.com"
+        }
+    },
+    {
+        "id": 3,
+        "skill": {
+            "id": 3,
+            "name": "C#"
+        },
+        "note": 5,
+        "student": {
+            "id": 3,
+            "nom": "Morvan",
+            "prenom": "Yann",
+            "telephone": "0643532131",
+            "mail": "morvan@gmail.com"
+        }
+    },
+    {
+        "id": 4,
+        "skill": {
+            "id": 4,
+            "name": "JEE"
+        },
+        "note": 3,
+        "student": {
+            "id": 4,
+            "nom": "Morin",
+            "prenom": "Marc",
+            "telephone": "0643536345",
+            "mail": "morin@gmail.com"
+        }
+    }
+]

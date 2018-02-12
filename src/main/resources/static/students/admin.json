@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "login": "admin",
+        "mdp": "admin"
+    },
+    {
+        "id": 1,
+        "login": "m6",
+        "mdp": "m6"
+    },
+    {
+        "id": 2,
+        "login": "root",
+        "mdp": "root"
+    }
+]
